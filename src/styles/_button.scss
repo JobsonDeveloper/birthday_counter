@@ -1,0 +1,18 @@
+@use "variables";
+
+.timer {
+    background-color: variables.$orange1;
+    margin-top: 30px;
+    color: variables.$secondaryColor;
+    font-weight: bold;
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    border-radius: 3px;
+
+    @media (max-width: 992px) {
+        font-size: 1.3rem;
+    }
+}
