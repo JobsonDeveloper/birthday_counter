@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://birthday-counter-nu.vercel.app/)
 
 ### Ferramentas utiliizadas:
